@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+output/*
+!output/evaluation_S001.json
+!output/evaluation_S001.csv
+data/temp/
